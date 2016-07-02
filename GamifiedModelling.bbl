@@ -1,0 +1,53 @@
+\begin{thebibliography}{10}
+
+\bibitem{Borstler2012}
+J.~B{\"{o}}rstler, L.~Kuzniarz, C.~Alphonce, W.~B. Sanders, and M.~Smialek,
+  ``{Teaching software modeling in computing curricula},'' in {\em Proceedings
+  of the final reports on Innovation and technology in computer science
+  education 2012 working groups - ITiCSE-WGR '12}, (New York, New York, USA),
+  p.~39, ACM Press, jul 2012.
+
+\bibitem{Kramer2007}
+J.~Kramer, ``{Is abstraction the key to computing?},'' {\em Communications of
+  the ACM}, vol.~50, no.~4, pp.~36--42, 2007.
+
+\bibitem{Duval2006}
+R.~Duval, ``{A cognitive analysis of problems of comprehension in a learning of
+  mathematics},'' 2006.
+
+\bibitem{Saitta2013}
+L.~Saitta and J.-D. Zucker, ``{02 - Abstraction in Different Disciplines},'' in
+  {\em Abstraction in Artificial Intelligence and Complex Systems}, ch.~2,
+  pp.~11--47, Springer New York, 2013.
+
+\bibitem{deterding2011game}
+S.~Deterding, D.~Dixon, R.~Khaled, and L.~Nacke, ``From game design elements to
+  gamefulness: defining gamification,'' in {\em Proceedings of the 15th
+  international academic MindTrek conference: Envisioning future media
+  environments}, pp.~9--15, ACM, 2011.
+
+\bibitem{Michael2005}
+D.~R. Michael and S.~L. Chen, ``{Serious Games: Games That Educate, Train, and
+  Inform},'' {\em Education}, vol.~October 31, pp.~1--95, 2005.
+
+\bibitem{Yohannis2015}
+A.~Yohannis and Y.~Prabowo, ``{Sort Attack: Visualization and Gamification of
+  Sorting Algorithm Learning},'' in {\em VS-Games 2015 - 7th International
+  Conference on Games and Virtual Worlds for Serious Applications}, 2015.
+
+\bibitem{Ibanez2014}
+M.-B. Ibanez, A.~Di-Serio, and C.~Delgado-Kloos, ``{Gamification for Engaging
+  Computer Science Students in Learning Activities: A Case Study},'' {\em IEEE
+  Transactions on Learning Technologies}, vol.~7, no.~3, pp.~291--301, 2014.
+
+\bibitem{peffers2007design}
+K.~Peffers, T.~Tuunanen, M.~A. Rothenberger, and S.~Chatterjee, ``A design
+  science research methodology for information systems research,'' {\em Journal
+  of management information systems}, vol.~24, no.~3, pp.~45--77, 2007.
+
+\bibitem{deterding2015lens}
+S.~Deterding, ``The lens of intrinsic skill atoms: A method for gameful
+  design,'' {\em Human--Computer Interaction}, vol.~30, no.~3-4, pp.~294--335,
+  2015.
+
+\end{thebibliography}
