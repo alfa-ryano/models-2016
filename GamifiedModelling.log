@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.3.26)  2 JUL 2016 02:08
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.3.26)  3 JUL 2016 02:07
 entering extended mode
 **./GamifiedModelling.tex
 (GamifiedModelling.tex
@@ -316,99 +316,86 @@ Missing character: There is no ™ in font cmr10!
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no ™ in font cmr10!
-Missing character: There is no Å in font cmr10!
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Å in font cmr10!
-Missing character: There is no š in font cmr10!
-Missing character: There is no Å in font cmr10!
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ã in font cmr10!
-Missing character: There is no ¶ in font cmr10!
-Missing character: There is no â in font cmr10!
-Missing character: There is no € in font cmr10!
-Missing character: There is no ˜ in font cmr10!
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no ™ in font cmr10!
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
-Missing character: There is no ˜ in font cmr10!
+Missing character: There is no ” in font cmr10!
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
-Missing character: There is no ™ in font cmr10!
+Missing character: There is no ” in font cmr10!
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
-Missing character: There is no ™ in font cmr10!
-Missing character: There is no Ã in font cmr10!
-Missing character: There is no ¶ in font cmr10!
- [2] [3]
+Missing character: There is no ” in font cmr10!
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no ” in font cmr10!
+ [2]
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no ” in font cmr10!
+
+Overfull \hbox (4.80762pt too wide) in paragraph at lines 136--145
+[]\OT1/cmr/m/n/10 4.4.4 Richard-sen (Richard-sen, 2014) Con-tents. Ac-tiv-ity d
+i-a-gram. Goals. Learn-
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [3]
 <images/levels.png, id=17, 1028.34187pt x 578.16pt>
 File: images/levels.png Graphic file (type png)
  <use images/levels.png>
-Package pdftex.def Info: images/levels.png used on input line 128.
+Package pdftex.def Info: images/levels.png used on input line 163.
 (pdftex.def)             Requested size: 177.1224pt x 99.58464pt.
 
 <images/positive.png, id=18, 277.78781pt x 184.43906pt>
 File: images/positive.png Graphic file (type png)
 
 <use images/positive.png>
-Package pdftex.def Info: images/positive.png used on input line 130.
+Package pdftex.def Info: images/positive.png used on input line 165.
 (pdftex.def)             Requested size: 149.9862pt x 99.58464pt.
 
 <images/game-annotated.png, id=19, 1028.34187pt x 578.16pt>
 File: images/game-annotated.png Graphic file (type png)
 
 <use images/game-annotated.png>
-Package pdftex.def Info: images/game-annotated.png used on input line 136.
+Package pdftex.def Info: images/game-annotated.png used on input line 171.
 (pdftex.def)             Requested size: 347.12354pt x 195.16028pt.
 
 <images/editor.png, id=20, 658.71094pt x 456.95718pt>
 File: images/editor.png Graphic file (type png)
  <use images/editor.png>
-Package pdftex.def Info: images/editor.png used on input line 146.
+Package pdftex.def Info: images/editor.png used on input line 183.
 (pdftex.def)             Requested size: 347.12354pt x 240.80557pt.
-Missing character: There is no â in font cmr10!
-Missing character: There is no € in font cmr10!
-Missing character: There is no ˜ in font cmr10!
-Missing character: There is no â in font cmr10!
-Missing character: There is no € in font cmr10!
-Missing character: There is no ™ in font cmr10!
-Missing character: There is no â in font cmr10!
-Missing character: There is no € in font cmr10!
-Missing character: There is no ˜ in font cmr10!
-Missing character: There is no â in font cmr10!
-Missing character: There is no € in font cmr10!
-Missing character: There is no ™ in font cmr10!
 
-[4 <./images/levels.png> <./images/positive.png>]
-Missing character: There is no â in font cmr10!
-Missing character: There is no € in font cmr10!
-Missing character: There is no ™ in font cmr10!
-
+(GamifiedModelling.bbl
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [5 <./images/game-annotated.png>] (GamifiedModelling.bbl [6 <./images/editor.p
-ng>])
-[7] (GamifiedModelling.aux) ) 
+ [4]
+[5 <./images/levels.png> <./images/positive.png>] [6 <./images/game-annotated.p
+ng>] [7 <./images/editor.png>]) [8] (GamifiedModelling.aux) ) 
 Here is how much of TeX's memory you used:
- 3535 strings out of 493634
- 52709 string characters out of 3143747
- 123162 words of memory out of 3000000
- 6872 multiletter control sequences out of 15000+200000
+ 3555 strings out of 493634
+ 52992 string characters out of 3143747
+ 124162 words of memory out of 3000000
+ 6892 multiletter control sequences out of 15000+200000
  11125 words of font info for 43 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
  44i,9n,49p,851b,356s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Program Files/MiKTeX 2.9/fonts/type1/public/am
-sfonts/cm/cmbx10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/c
-m/cmbx12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx9.
-pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/P
-rogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Program Fil
-es/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Program Files/MiKTe
-X 2.9/fonts/type1/public/amsfonts/cm/cmti9.pfb><C:/Program Files/MiKTeX 2.9/fon
-ts/type1/public/amsfonts/cm/cmtt9.pfb>
-Output written on GamifiedModelling.pdf (7 pages, 310255 bytes).
+<C:/Program Files/
+MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Program Files/MiKTeX 2
+.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files/MiKTeX 2.9/fonts
+/type1/public/amsfonts/cm/cmbx9.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/pu
+blic/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsf
+onts/cm/cmr9.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cm
+ti10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti9.pfb>
+<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmtt9.pfb>
+Output written on GamifiedModelling.pdf (8 pages, 316291 bytes).
 PDF statistics:
- 62 PDF objects out of 1000 (max. 8388607)
+ 65 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  21 words of extra memory for PDF output out of 10000 (max. 10000000)
 

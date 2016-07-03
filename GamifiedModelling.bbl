@@ -40,6 +40,96 @@ M.-B. Ibanez, A.~Di-Serio, and C.~Delgado-Kloos, ``{Gamification for Engaging
   Computer Science Students in Learning Activities: A Case Study},'' {\em IEEE
   Transactions on Learning Technologies}, vol.~7, no.~3, pp.~291--301, 2014.
 
+\bibitem{moisan2009teaching}
+S.~Moisan and J.-P. Rigault, ``Teaching object-oriented modeling and uml to
+  various audiences,'' in {\em International Conference on Model Driven
+  Engineering Languages and Systems}, pp.~40--54, Springer, 2009.
+
+\bibitem{Akayama2013}
+S.~Akayama, M.~Brandsteidl, B.~Demuth, K.~Hisazumi, T.~C. Lethbridge,
+  P.~Stevens, and D.~R. Stikkolorum, ``{Tool use in software modelling
+  education: state of the art and research directions},'' in {\em the
+  Educators' Symposium co-located with ACM/IEEE 16th International Conference
+  on Model Driven Engineering Languages and Systems (MODELS 2013)} (T.~C.
+  Lethbridge and P.~Stevens, eds.), (Miami, U.S.A.), 2013.
+
+\bibitem{Brandsteidl2011}
+M.~Brandsteidl, K.~Wieland, and C.~Huemer, ``{Novel communication channels in
+  software modeling education},'' in {\em Lecture Notes in Computer Science
+  (including subseries Lecture Notes in Artificial Intelligence and Lecture
+  Notes in Bioinformatics)}, vol.~6627 LNCS, pp.~40--54, 2011.
+
+\bibitem{neubauer2003immersive}
+B.~J. Neubauer and J.~D. Harris, ``Immersive visual modeling: potential use of
+  virtual reality in teaching software design,'' {\em Journal of Computing
+  Sciences in Colleges}, vol.~18, no.~6, pp.~142--150, 2003.
+
+\bibitem{Whittle2014}
+J.~Whittle, C.~N. Bull, J.~Lee, and G.~Kotonya, ``{Teaching in a software
+  design studio: Implications for modeling education},'' in {\em CEUR Workshop
+  Proceedings}, vol.~1346, pp.~12--21, CEUR-WS, 2014.
+
+\bibitem{Szmurlo2007}
+R.~Szmurlo and M.~{\'{S}}mialek, ``{Teaching Software Modeling in a Simulated
+  Project Environment},'' {\em Lecture Notes in Computer Science}, vol.~4364,
+  pp.~301--310, 2007.
+
+\bibitem{schmidt2014teaching}
+A.~Schmidt, D.~Kimmig, K.~Bittner, and M.~Dickerhof, ``Teaching model-driven
+  software development: revealing the great miracle of code generation to
+  students,'' in {\em Proceedings of the Sixteenth Australasian Computing
+  Education Conference-Volume 148}, pp.~97--104, Australian Computer Society,
+  Inc., 2014.
+
+\bibitem{Naps2005}
+T.~L. Naps, ``{Jhav{\'{e}}: Supporting algorithm visualization},'' {\em IEEE
+  Computer Graphics and Applications}, vol.~25, no.~5, pp.~49--55, 2005.
+
+\bibitem{Werbach2014}
+K.~Werbach, ``{(Re)defining gamification: A process approach},'' in {\em
+  Lecture Notes in Computer Science (including subseries Lecture Notes in
+  Artificial Intelligence and Lecture Notes in Bioinformatics)}, vol.~8462
+  LNCS, pp.~266--272, Springer Verlag, 2014.
+
+\bibitem{Kapp2012}
+K.~M. Kapp, ``{What Is Gamification?},'' {\em The Gamification of Learning and
+  Instruction: Game-Based Methods and Strategies for Training and Education},
+  pp.~1--23, 2012.
+
+\bibitem{Yohannis2014}
+A.~R. Yohannis, Y.~D. Prabowo, and A.~Waworuntu, ``{Defining gamification: From
+  lexical meaning and process viewpoint towards a gameful reality},'' {\em
+  Information Technology Systems and Innovation (ICITSI), 2014 International
+  Conference on}, no.~June 2015, pp.~284--289, 2014.
+
+\bibitem{Deterding2013}
+S.~Deterding, S.~L. Bj{\"{o}}rk, L.~E. Nacke, D.~Dixon, and E.~Lawley,
+  ``{Designing Gamification: creating gameful and playful experiences},'' {\em
+  CHI '13 Extended Abstracts on Human Factors in Computing Systems on - CHI EA
+  '13}, p.~3263, 2013.
+
+\bibitem{Pedreira2015}
+O.~Pedreira, F.~Garc{\'{i}}a, N.~Brisaboa, and M.~Piattini, ``{Gamification in
+  software engineering - A systematic mapping},'' in {\em Information and
+  Software Technology}, vol.~57, pp.~157--168, Elsevier, 2015.
+
+\bibitem{Stikkolorum2014}
+D.~R. Stikkolorum, M.~R.~V. Chaudron, and O.~de~Bruin, ``{The Art of Software
+  Design, a Video Game for Learning Software Design Principles},'' jan 2014.
+
+\bibitem{Ionita2015}
+D.~B. Ionita, R.~Wieringa, J.-w. Bullee, and A.~Vasenev, ``{Tangible Modelling
+  to Elicit Domain Knowledge: An Experiment and Focus Group},'' vol.~9381,
+  pp.~558--565, 2015.
+
+\bibitem{Groenewegen2010}
+J.~Groenewegen, S.~Hoppenbrouwers, and E.~Proper, ``{Playing ArchiMate
+  models},'' 2010.
+
+\bibitem{Richardsen2014}
+O.~Richardsen, ``{Learning Modeling Languages Using Strategies from Gaming},''
+  2014.
+
 \bibitem{peffers2007design}
 K.~Peffers, T.~Tuunanen, M.~A. Rothenberger, and S.~Chatterjee, ``A design
   science research methodology for information systems research,'' {\em Journal
