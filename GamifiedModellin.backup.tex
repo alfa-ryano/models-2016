@@ -94,68 +94,46 @@ Therefore, the purpose of this research is to investigate and develop a gamifica
 \end{enumerate}
 
 \section{Related Works}
+
 Several approaches have been conducted to bring software modelling into a more concrete presentation that can be easily understood by learners, ranging from didactic learning \cite{moisan2009teaching}, modeling tools utilization \cite{Akayama2013}, alternative communication channels and the use of modelling language \cite{Brandsteidl2011}, immersive visual modelling through virtual environment \cite{neubauer2003immersive}, software design studio \cite{Whittle2014}, project-based approach \cite{Szmurlo2007}, to code generation investigation \cite{schmidt2014teaching}.
 
 However, most of the approaches have weaknesses in motivating learners to engage continuously, frequently, and actively to learn software modelling, which is the important aspect to impact greatly on learning \cite{Naps2005}. This condition then elevates game as one approach, a.k.a. game-based learning, to learn or teach software modelling. This approach provides students a new way of learning software modelling, which is not only interactive but also engaging enough to keep them learning continuously. 
 
-The use of game elements for a purpose other than leisure is called gamification \cite{deterding2011game} or  the process of transforming a less gameful entity into a more gameful one \cite{Werbach2014} \cite{Kapp2012} \cite{Yohannis2014}. Regardless gamification design is still an ongoing challenge \cite{Deterding2013}, it is an opportunity for research that up today there is still no gamification design framework that particularly structures the design of software modelling gamification; a framework that integrates game specific domain into software modelling. Hence, this research aims to develop a gamification design framework of software modelling.
+The use of game elements for a purpose other than leisure is called gamification \cite{deterding2011game} or  the process of transforming a less gameful entity into a more gameful one \cite{Werbach2014} \cite{Kapp2012} \cite{Yohannis2014}. Regardless gamification design is still an ongoing challenge \cite{Deterding2013}, it is an opportunity for research that up today there is still no gamification design framework that particularly address how to guide the design of software modelling gamification; a framework that guides how to integrate game specific domain into software modelling. Therefore, this research aims to develop a gamification design framework of software modelling.
 
-Most of the gamification studies available are dominantly relates to software engineering in a larger context or other aspects of software engineering, such as software implementation and project management, rather than software modelling in particular \cite{Pedreira2015}. After the literature exploration, only four works have been identified applied gamification for software modelling. They are the works of Groenewegen et al. \cite{Groenewegen2010}, Stikkolorum et al. \cite{Stikkolorum2014}, Richardsen\cite{Richardsen2014}, and Ionita et al. \cite{Ionita2015}. All of the works do not address software modelling learning in general---how learners can learn abstraction in modelling---and they only address very specific topics or area in software modelling, such as activity diagram, coupling and cohesion, and enterprise architectures. Most of the works also only touch the pedagogical aspect superficially or not at all and are validated in a very limited number of respondents. 
+Most of the gamification studies available are dominantly relates to software engineering in a larger context or other aspects of software engineering, such as software implementation and project management, rather than software modelling in particular \cite{Pedreira2015}. After the literature exploration, only four works have been identified applied gamification for software modelling. In their work, Groenewegen et al. \cite{Groenewegen2010} implemented cards, explorable board-game, and rules to help the audience to learn and validate enterprise architecture models. The gamification works by facilitating the audience to explore a model step by step, element by element according to the given rules similar to a map board game. This method provides a progressive user experience helping the audience to understand the model through provoking curiosity so they can give argument whether the model is valid or not based on their existing knowledge. However, the pedagogical aspect was not discussed explicitly  in their publication and the evaluation was limited to a very small number of respondents. 
+
+Stikkolorum et al. \cite{Stikkolorum2014} implemented puzzle game, levels, visual and audio feedbacks, progress indicator, level unlocking, choice of path, multiple solutions, and scoring to teach cohesion, coupling, information hiding, and modularity in software design. The outcome is the audience started to talk about classes, methods, and associations instead of boxes, blocks, and lines, indication of unconscious learning. Nevertheless, the pedagogical aspect was not discussed deeply and the evaluation is limited to a very small respondents using the 'think aloud' method. Ionita et al. \cite{Ionita2015} developed a socio-technical modelling language (TREsPASS) and map them toward tangible representation. The tangible representations will increase the familiarity and understandability of the model, therefore increase awareness and involvement. For the game  elements, they used familiar and tangible representation---such as Lego characters and board-game metaphor---and rules to improve learnability and participation. Nonetheless, their work is specific to domain modelling in information security, not for learning software modelling in general. Richardsen \cite{Richardsen2014} utilised UML activity diagram to control the behaviour of a game. The purpose of his research is to support the audience learning activity diagram in the context of Reactive Block tools and comparing the learning outcomes between the traditional interactive tutorial and the game-like one. Even though the game-like tutorial is more engaging, there is no significant difference between the the game-like tutorial and the traditional one. Moreover, the number of respondents for evaluation was very limited and no pedagogical aspect was discussed.
 
 \section{Research Methods}
 Since the output of this work is design artefacts, we decided to utilise the Design Science Research Methodology (DSRM) \cite{peffers2007design} as our umbrella methodology. DSRM is selected because it provides a comprehensive high-level conceptual framework how to undergo a full-cycle research process. It also provides six-activity guidelines for understanding, developing, executing, and evaluating design artifacts. The six activities are (1) problem identification and motivation activity, (2) define objectives for a solution activity, (3) define objectives for a solution activity, (4) design and development activity, (5) demonstration and evaluation activities, and (6) communication. 
 
 The high-level characteristic means that we can employ other research methods as the sub methods in each activity. For examples, we employ interviews, literature reviews, and discussion with experts as our methods in problem identification and motivation activity as well as utilise Deterding's lens of intrinsic skill atoms \cite{deterding2015lens} to produce a gameful design in the design and development activity. We use the activities of DSRM as the guidelines to report this research's in-progress accomplishment in the following sections.
  
-\section{Problem, Motivation, Solution, and Objective Definition}
-Literature reviews and interviews are the methods used to identify problems, motivations, solutions, and objectives of this research.
+\section{Analysis}
+Problem Identification and Motivation.
+Solution and Objective Definition.
 
-\section{Gamfication Design}
-In order to deliver a gameful experience while playing with the artefact, game elements have to embedded into the artefact's design. Thus, Design Lenses and Skill Atoms \cite{deterding2015lens} are utilised to determine the required game elements as well as the game mechanics. 
+\section{Design}
+In this section, I describe the design applied on the artefact. The design process are driven by the Design Lenses and Skill Atoms \cite{deterding2015lens}. The mechanics, interface, model editor, model validation, and evaluation are also briefly presented in this section.
 
-\subsection{Design Lenses}
-\textbf{Challenge Lens}. Figure \ref{Figure001} shows the level design of the artefact. The design of levels has a gradually-increased difficulty as well as variety in its challenges to expose learners to different kinds of domains, models, and diagrams. Orboarding game element is also planned to be implemented into the artefact to help learners familiar with the control system and the flow of the game. The design will also utilise templates to help learners building models without having to start from scratch. The foundation model already given. They only need to continue the model the meet certain objectives.
-
-\textbf{Goal and Motivation Lens}. To motivate learners engage with the artefact, the design implements interim goals and intrinsic rewards. Every type of modelling (object modelling, collaboration modelling, etc.) has several stories. A story represent a specific case study to introduce learners to certain problems in specific domains. Every story consist of several levels and every level has one or more objectives that a learner need to accomplish in order to complete the level. The level also might be a continuation of its previous level, thus give the learners a sense of step-by-step progression to complete the domain problems. In every story or level, new concepts---related to their type of modelling---or a combination between the old and new concepts might be introduced to learners. Therefore, as the learners progressing, their competence in modelling are being  developed. This is the intrinsic rewards for the learners; building their competence in modelling. 
-
-\textbf{Action and Object Lens}. Modelling a real-world problem can be very exhaustive and time consuming. Thus, the extraneous activities that are not relevant to the core concepts that are being taught should be removed. As a result, learners will be more focused on the main concepts. For that reason, game elements like bite sized actions (e.g. drag and drop), limited choices (i.e. only limited items can be dragged), and microflow (i.e. put the right element to its right place) are selected to facilitate learners to perform the core activities. Likewise, underdetermination element is also selected to provoke learners' creativity since most of the time there is no single correct model to represent a model; the models can be vary. Attractive design are also significant since it draws learners attention to interact with the artefact.
-
-\textbf{Feedbacks}. Immediate, juicy, actionable, appeal to motives, glanceable, varied, graspable progress
-
-\subsection{Architecture}
-
-\subsection{Model Validation}
-
-\subsection{Modelling Editor}
-
-\section{Evaluation}
-Controlled experiment will be applied to evaluate the effect of the design artefact. The respondents be divided into two groups control control group and experimental group. Control will learn software modelling using traditional method while experimental group will learn with the support from the artefact. After some time learning, they will be given problems to be solved. Their performance will be measured by their ability to solve the problems. In order to anticipate the order effect, they will be asked to change their roles, from control group to experimental group and vice versa, and then their ability will be tested again using similar problems. After the experiment, the significance of their performance to will be calculated. To evaluate the generality of the artefact's effect, longitudinal experiment is also considered  as well as undergoing the experiment in different countries and universities.
-
-Nonetheless, the controlled experiment is limited only to measure the significance of the design artefact and no understanding is developed to explain why learning software modelling supported with the artefact is better or worse than the traditional one. Consequently, surveying with questionnaires or interviews might be conducted to investigate the underlying variables or processes. Structural equation modelling also an option if measuring the effects of the identified underlying factors is required. The other alternative method to gain understanding of underlying variables or processes is through investigating the artefact's event logs using data mining or machine learning techniques.
-
-\section{Conclusion}
- 
-
-\subsubsection*{Acknowledgments.} We would like to thank our respondents that participated in our preliminary interview. This research is supported by \emph{Lembaga Pengelola Dana Pendidikan Indonesia} (Indonesia Endowment Fund for Education). 
-
-\bibliography{references} 
-\bibliographystyle{ieeetr}
-
+\subsection{Gamification Design}
+In order to deliver a gameful experience while playing with the artefact, game elements have to embedded into the artefact's design. Thus, Design Lenses and Skill Atoms are utilised to determine the required game elements and game mechanics. Tables \ref{Table001} and Table \ref{Table002} show the Design Lenses and Skill Atoms applied in the gamification design.
 
 \begin{table}[htb]
 \caption{Design lenses (game elements) applied in the gamification design.}\label{Table001}
 \begin{center}
-    \begin{tabular}{ | p{3.2cm} | p {8.7cm} | }
+    \begin{tabular}{ | p{3.2cm} | p {8.8cm} | }
     \hline
 	\textbf{Lenses} & \textbf{Elements}\\    
     \hline
     Challenges & Onboarding, scaffolded challenge, varied challenge \\    
     \hline
-    Goals and Motivation & interim goals, intrinsic rewards\\
+    Goals and Motivation & interim goals, intrinsic rewards, templates\\
     \hline
 	Actions and Object & bite sized actions, limited choices, microflow, underdetermination, sensual \\
     \hline
-    Feedbacks & Immediate, juicy, actionable, appeal to motives, glanceable, varied, graspable progress\\
+    Feedbacks & Immediate, juicy, acti onable, appeal to motives, glanceable, varied, graspable progress\\
     \hline
     \end{tabular}
 \end{center}
@@ -165,7 +143,7 @@ Nonetheless, the controlled experiment is limited only to measure the significan
 \begin{table}[htb]
 \caption{Skill Atoms applied in the gamification design.}\label{Table002}
 \begin{center}
-    \begin{tabular}{ | p{3.2cm} | p {8.7cm} | }
+    \begin{tabular}{ | p{3.2cm} | p {8.8cm} | }
     \hline
 	\textbf{Atoms} & \textbf{Description}\\    
     \hline
@@ -188,12 +166,10 @@ Nonetheless, the controlled experiment is limited only to measure the significan
 
 \begin{figure}[htb]
 \centering
-\subfloat[Level Selection]
-	{\frame{\includegraphics[height=3.5cm]{levels}}\label{Figure001}}
+\subfloat[Level Selection]{\frame{\includegraphics[height=3.5cm]{levels}}}
 \hspace*{\fill}
-\subfloat[Positive Reinforcement]
-	{\frame{\includegraphics[height=3.5cm]{positive}}\label{Figure002}}
-	\caption{Game and learning elements embedded into the artifact.}
+\subfloat[Positive Reinforcement]{\frame{\includegraphics[height=3.5cm]{positive}}}
+\caption{Game and learning elements embedded into the artifact.}
 \end{figure}
 
 \begin{figure}[htb]
@@ -202,11 +178,27 @@ Nonetheless, the controlled experiment is limited only to measure the significan
 \caption{The game's display.}
 \end{figure}
 
+\subsection{Architecture}
+
+\subsection{Model Validation}
+
+\subsection{Modelling Editor}
+
 \begin{figure}[htb]
 \centering
 \frame{\includegraphics[width=\textwidth]{editor}}
 \caption{Game editor to automatically generate the game.}
 \end{figure}
+
+\section{Evaluation}
+
+\section{Conclusion}
+ 
+
+\subsubsection*{Acknowledgments.} We would like to thank our respondents that participated in our preliminary interview. This research is supported by \emph{Lembaga Pengelola Dana Pendidikan Indonesia} (Indonesia Endowment Fund for Education). 
+
+\bibliography{references} 
+\bibliographystyle{ieeetr}
 
 \end{document}
 
