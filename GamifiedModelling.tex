@@ -96,17 +96,14 @@ Several approaches have been conducted to bring software modelling into a more c
 
 However, most of the approaches have weaknesses in motivating learners to engage continuously, frequently, and actively to learn software modelling, which is the important aspect to impact greatly on learning \cite{Naps2005}. This condition then elevates game as one approach, a.k.a. game-based learning, to learn or teach software modelling. This approach provides students a new way of learning software modelling, which is not only interactive but also engaging enough to keep them learning continuously. 
 
-The use of game elements for a purpose other than leisure is called gamification \cite{deterding2011game} or  the process of transforming a less gameful entity into a more gameful one \cite{Werbach2014} \cite{Kapp2012} \cite{Yohannis2014}. Regardless gamification design is still an ongoing challenge \cite{Deterding2013}, it is an opportunity for research that up today there is still no gamification design framework that particularly structures the design of software modelling gamification; a framework that integrates game specific domain into software modelling. Hence, this research aims to develop a gamification design framework of software modelling.
+The use of game elements for a purpose other than leisure is called gamification \cite{deterding2011game}. Regardless gamification design is still an ongoing challenge \cite{Deterding2013}, it is an opportunity for research that up today there is still no gamification design framework that particularly structures the design of software modelling gamification; a framework that integrates game specific domain into software modelling. Hence, this research aims to develop a gamification design framework of software modelling learning.
 
 Most of the gamification studies available are dominantly relates to software engineering in a larger context or other aspects of software engineering, such as software implementation and project management, rather than software modelling in particular \cite{Pedreira2015}. After the literature exploration, only four works have been identified applied gamification for software modelling. They are the works of Groenewegen et al. \cite{Groenewegen2010}, Stikkolorum et al. \cite{Stikkolorum2014}, Richardsen\cite{Richardsen2014}, and Ionita et al. \cite{Ionita2015}. All of the works do not address software modelling learning in general---how learners can learn abstraction in modelling---and they only address very specific topics or area in software modelling, such as activity diagram, coupling and cohesion, and enterprise architectures. Most of the works also only touch the pedagogical aspect superficially or not at all and are validated in a very limited number of respondents. 
 
 \section{Research Methods}
 Since the output of this work is design artefacts, we decided to utilise the Design Science Research Methodology (DSRM) \cite{peffers2007design} as our umbrella methodology. DSRM is selected because it provides a comprehensive high-level conceptual framework how to undergo a full-cycle research process. It also provides six-activity guidelines for understanding, developing, executing, and evaluating design artifacts. The six activities are (1) problem identification and motivation activity, (2) define objectives for a solution activity, (3) define objectives for a solution activity, (4) design and development activity, (5) demonstration and evaluation activities, and (6) communication. 
 
-The high-level characteristic means that we can employ other research methods as the sub methods in each activity. For examples, we employ interviews, literature reviews, and discussion with experts as our methods in problem identification and motivation activity as well as utilise Deterding's lens of intrinsic skill atoms \cite{deterding2015lens} to produce a gameful design in the design and development activity. We use the activities of DSRM as the guidelines to report this research's in-progress accomplishment in the following sections.
- 
-\section{Problem, Motivation, Solution, and Objective Definition}
-Literature reviews and interviews are the methods used to identify problems, motivations, solutions, and objectives of this research.
+The high-level characteristic means that we can employ other research methods as the sub methods in each activity. For examples, we employ interviews, literature reviews, and discussion with experts as our methods in problem identification and motivation activity as well as utilise Deterding's lens of intrinsic skill atoms \cite{deterding2015lens} to produce a gameful design in the design and development activity.
 
 \section{Gamfication Design}
 In order to deliver a gameful experience while playing with the artefact, game elements have to embedded into the artefact's design. Thus, Design Lenses and Skill Atoms \cite{deterding2015lens} are utilised to determine the required game elements as well as the game mechanics. 
@@ -118,11 +115,14 @@ In order to deliver a gameful experience while playing with the artefact, game e
 
 \textbf{Action and Object Lens}. Modelling a real-world problem can be very exhaustive and time consuming. Thus, the extraneous activities that are not relevant to the core concepts that are being taught should be removed. As a result, learners will be more focused on the main concepts. For that reason, game elements like bite sized actions (e.g. drag and drop), limited choices (i.e. only limited items can be dragged), and microflow (i.e. put the right element to its right place) are selected to facilitate learners to perform the core activities. Likewise, underdetermination element is also selected to provoke learners' creativity since most of the time there is no single correct model to represent a model; the models can be vary. Attractive design are also significant since it draws learners attention to interact with the artefact.
 
-\textbf{Feedbacks}. Immediate, juicy, actionable, appeal to motives, glanceable, varied, graspable progress
+\textbf{Feedbacks}. To keep learner' keep on track and monitor the state of their games, the system should give immediate, glanceable, actionable, and graspable. Moreover, the feedbacks should be designed interesting, varied, and appeal to motives to draw their attentions, not being boring, and motivating. 
 
-\subsection{Architecture}
+\subsection{Intrinsic Skill Atoms}
+The design of the cycle of the game mechanics that the learners will be playing during engaging with the artefact is derived from Intrinsic Skill Atoms, which have six components that should be defined: motivation, goals, actions and objects, challenges, rules, and feedbacks. The main motivation engaging with artefact is to master software modelling, which means that they will be able to construct models and solve model-related problems. For an instance, able to construct object modelling of a sign-in screen problem. Moreover, The goal of their modelling activities is to meet the given objectives but still in the corridor of the rules. As an example, learners are asked to construct an object diagram of an button that when pressed will clear the text of a textbox. Of course there will be two objects (button object and textbox object), but the diagram will not be complete if there is no link that connects them to represent their relationship.
 
-\subsection{Model Validation}
+In order to reach the goals, learners are required to do some actions to manipulate some objects like many other games. The artefact requires learners to perform dragging, dropping, and connecting diagram elements (e.g. objects and links) to construct a model. They are also required to drag and drop some draggable items---contains the names or values of slots, actions, and classes of objects---into the appropriate diagram elements. To make the modelling activity more exciting, the learners are confronted with some challenges in the form of problem-solving cases. For an example, an animation that shows how a login page works is displayed to the learners and they are asked to model it. 
+
+All the models created generally have to adhere with the rules that are inherent to the types of the models. However, the rules do not always have to be strict with the rules since it could causes the learners demotivated. As an illustration, a link in an object diagram should connect two objects, one on each ends. However, this rule can be neglected as long as the rule is not a crucial part of the topic that are being addressed. Finally, feedbacks are required to keep the learners keep track on every actions they made, to be informed of their progression, and to motivate them in their ups and downs.
 
 \subsection{Modelling Editor}
 
@@ -139,6 +139,8 @@ Nonetheless, the controlled experiment is limited only to measure the significan
 \bibliography{references} 
 \bibliographystyle{ieeetr}
 
+\clearpage
+\section{Appendix A: Tables and Images}
 
 \begin{table}[htb]
 \caption{Design lenses (game elements) applied in the gamification design.}\label{Table001}
@@ -158,7 +160,6 @@ Nonetheless, the controlled experiment is limited only to measure the significan
     \end{tabular}
 \end{center}
 \end{table}
-
 
 \begin{table}[htb]
 \caption{Skill Atoms applied in the gamification design.}\label{Table002}
@@ -182,7 +183,6 @@ Nonetheless, the controlled experiment is limited only to measure the significan
     \end{tabular}
 \end{center}
 \end{table}
-
 
 \begin{figure}[htb]
 \centering
