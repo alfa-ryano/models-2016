@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.3.26)  7 JUL 2016 17:19
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.3.26)  8 JUL 2016 08:38
 entering extended mode
 **./GamifiedModelling.tex
 (GamifiedModelling.tex
@@ -276,18 +276,18 @@ Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 ) (GamifiedModelling.aux)
 \openout1 = `GamifiedModelling.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
 
 ("C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -306,11 +306,11 @@ LaTeX Font Info:    ... okay on input line 35.
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: subfig package v1.3 is loaded.
 Package caption Info: End \AtBeginDocument code.
-LaTeX Font Info:    Try loading font information for U+msa on input line 70.
+LaTeX Font Info:    Try loading font information for U+msa on input line 69.
  ("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 70.
+LaTeX Font Info:    Try loading font information for U+msb on input line 69.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
@@ -325,32 +325,32 @@ Missing character: There is no ™ in font cmr10!
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no ™ in font cmr10!
- [2] [3] [4]
-(GamifiedModelling.bbl [5] [6]) [7]
+ [2] [3] [4] [5]
+(GamifiedModelling.bbl [6]) [7]
 <images/levels.png, id=32, 1028.34187pt x 578.16pt>
 File: images/levels.png Graphic file (type png)
  <use images/levels.png>
-Package pdftex.def Info: images/levels.png used on input line 190.
+Package pdftex.def Info: images/levels.png used on input line 188.
 (pdftex.def)             Requested size: 177.1224pt x 99.58464pt.
 
 <images/positive.png, id=33, 277.78781pt x 184.43906pt>
 File: images/positive.png Graphic file (type png)
 
 <use images/positive.png>
-Package pdftex.def Info: images/positive.png used on input line 193.
+Package pdftex.def Info: images/positive.png used on input line 191.
 (pdftex.def)             Requested size: 149.9862pt x 99.58464pt.
 
 <images/game-annotated.png, id=34, 1028.34187pt x 578.16pt>
 File: images/game-annotated.png Graphic file (type png)
 
 <use images/game-annotated.png>
-Package pdftex.def Info: images/game-annotated.png used on input line 199.
+Package pdftex.def Info: images/game-annotated.png used on input line 197.
 (pdftex.def)             Requested size: 347.12354pt x 195.16028pt.
 
 <images/editor.png, id=35, 658.71094pt x 456.95718pt>
 File: images/editor.png Graphic file (type png)
  <use images/editor.png>
-Package pdftex.def Info: images/editor.png used on input line 205.
+Package pdftex.def Info: images/editor.png used on input line 203.
 (pdftex.def)             Requested size: 347.12354pt x 240.80557pt.
 
 [8
@@ -358,13 +358,13 @@ Package pdftex.def Info: images/editor.png used on input line 205.
 ] [9 <./images/levels.png> <./images/positive.png> <./images/game-annotated.png
 >] [10 <./images/editor.png>] (GamifiedModelling.aux) ) 
 Here is how much of TeX's memory you used:
- 3603 strings out of 493634
- 53548 string characters out of 3143747
- 124162 words of memory out of 3000000
- 6938 multiletter control sequences out of 15000+200000
+ 3604 strings out of 493634
+ 53568 string characters out of 3143747
+ 123162 words of memory out of 3000000
+ 6939 multiletter control sequences out of 15000+200000
  11125 words of font info for 43 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
- 44i,9n,49p,1031b,355s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 44i,9n,49p,1135b,355s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Program Files/MiKTeX
  2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Program Files/MiKTeX 2.9/fon
 ts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1
@@ -373,7 +373,7 @@ msfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/c
 m/cmr9.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.p
 fb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti9.pfb><C:/Pr
 ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmtt9.pfb>
-Output written on GamifiedModelling.pdf (10 pages, 322533 bytes).
+Output written on GamifiedModelling.pdf (10 pages, 324044 bytes).
 PDF statistics:
  71 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
