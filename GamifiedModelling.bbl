@@ -1,43 +1,43 @@
 \begin{thebibliography}{10}
 
 \bibitem{Borstler2012}
-J.~B{\"{o}}rstler, L.~Kuzniarz, C.~Alphonce, W.~B. Sanders, and M.~Smialek,
-  ``{Teaching software modeling in computing curricula},'' in {\em Proceedings
-  of the final reports on Innovation and technology in computer science
-  education 2012 working groups - ITiCSE-WGR '12}, (New York, New York, USA),
-  p.~39, ACM Press, jul 2012.
+J.~B{\"o}rstler, L.~Kuzniarz, C.~Alphonce, W.~B. Sanders, and M.~Smialek,
+  ``Teaching software modeling in computing curricula,'' in {\em Proceedings of
+  the final reports on Innovation and technology in computer science education
+  2012 working groups}, pp.~39--50, ACM, 2012.
 
 \bibitem{Kramer2007}
-J.~Kramer, ``{Is abstraction the key to computing?},'' {\em Communications of
-  the ACM}, vol.~50, no.~4, pp.~36--42, 2007.
+J.~Kramer, ``Is abstraction the key to computing?,'' {\em Communications of the
+  ACM}, vol.~50, no.~4, pp.~36--42, 2007.
 
 \bibitem{Duval2006}
-R.~Duval, ``{A cognitive analysis of problems of comprehension in a learning of
-  mathematics},'' 2006.
+R.~Duval, ``A cognitive analysis of problems of comprehension in a learning of
+  mathematics,'' {\em Educational studies in mathematics}, vol.~61, no.~1-2,
+  pp.~103--131, 2006.
 
 \bibitem{Saitta2013}
-L.~Saitta and J.-D. Zucker, ``{02 - Abstraction in Different Disciplines},'' in
-  {\em Abstraction in Artificial Intelligence and Complex Systems}, ch.~2,
-  pp.~11--47, Springer New York, 2013.
+L.~Saitta and J.-D. Zucker, {\em Abstraction in artificial intelligence and
+  complex systems}, vol.~456.
+\newblock Springer, 2013.
 
 \bibitem{deterding2011game}
 S.~Deterding, D.~Dixon, R.~Khaled, and L.~Nacke, ``From game design elements to
   gamefulness: defining gamification,'' in {\em Proceedings of the 15th
-  international academic MindTrek conference: Envisioning future media
-  environments}, pp.~9--15, ACM, 2011.
+  international academic MindTrek conference}, pp.~9--15, ACM, 2011.
 
 \bibitem{Michael2005}
-D.~R. Michael and S.~L. Chen, ``{Serious Games: Games That Educate, Train, and
-  Inform},'' {\em Education}, vol.~October 31, pp.~1--95, 2005.
+D.~R. Michael and S.~L. Chen, {\em Serious games: Games that educate, train,
+  and inform}.
+\newblock Muska \& Lipman/Premier-Trade, 2005.
 
 \bibitem{Yohannis2015}
-A.~Yohannis and Y.~Prabowo, ``{Sort Attack: Visualization and Gamification of
-  Sorting Algorithm Learning},'' in {\em VS-Games 2015 - 7th International
-  Conference on Games and Virtual Worlds for Serious Applications}, 2015.
+A.~Yohannis and Y.~Prabowo, ``Sort attack: Visualization and gamification of
+  sorting algorithm learning,'' in {\em the 7th VS-Games}, pp.~1--8, IEEE,
+  2015.
 
 \bibitem{Ibanez2014}
-M.-B. Ibanez, A.~Di-Serio, and C.~Delgado-Kloos, ``{Gamification for Engaging
-  Computer Science Students in Learning Activities: A Case Study},'' {\em IEEE
+M.-B. Ibanez, A.~Di-Serio, and C.~Delgado-Kloos, ``Gamification for engaging
+  computer science students in learning activities: A case study,'' {\em IEEE
   Transactions on Learning Technologies}, vol.~7, no.~3, pp.~291--301, 2014.
 
 \bibitem{moisan2009teaching}
@@ -46,18 +46,14 @@ S.~Moisan and J.-P. Rigault, ``Teaching object-oriented modeling and uml to
   Engineering Languages and Systems}, pp.~40--54, Springer, 2009.
 
 \bibitem{Akayama2013}
-S.~Akayama, M.~Brandsteidl, B.~Demuth, K.~Hisazumi, T.~C. Lethbridge,
-  P.~Stevens, and D.~R. Stikkolorum, ``{Tool use in software modelling
-  education: state of the art and research directions},'' in {\em the
-  Educators' Symposium co-located with ACM/IEEE 16th International Conference
-  on Model Driven Engineering Languages and Systems (MODELS 2013)} (T.~C.
-  Lethbridge and P.~Stevens, eds.), (Miami, U.S.A.), 2013.
+S.~Akayama, B.~Demuth, T.~C. Lethbridge, M.~Scholz, P.~Stevens, and D.~R.
+  Stikkolorum, ``Tool use in software modelling education.,'' in {\em EduSymp@
+  MoDELS}, 2013.
 
 \bibitem{Brandsteidl2011}
-M.~Brandsteidl, K.~Wieland, and C.~Huemer, ``{Novel communication channels in
-  software modeling education},'' in {\em Lecture Notes in Computer Science
-  (including subseries Lecture Notes in Artificial Intelligence and Lecture
-  Notes in Bioinformatics)}, vol.~6627 LNCS, pp.~40--54, 2011.
+M.~Brandsteidl, K.~Wieland, and C.~Huemer, ``Novel communication channels in
+  software modeling education,'' in {\em International Conference on Model
+  Driven Engineering Languages and Systems}, pp.~40--54, Springer, 2010.
 
 \bibitem{neubauer2003immersive}
 B.~J. Neubauer and J.~D. Harris, ``Immersive visual modeling: potential use of
@@ -70,9 +66,9 @@ J.~Whittle, C.~N. Bull, J.~Lee, and G.~Kotonya, ``{Teaching in a software
   Proceedings}, vol.~1346, pp.~12--21, CEUR-WS, 2014.
 
 \bibitem{Szmurlo2007}
-R.~Szmurlo and M.~{\'{S}}mialek, ``{Teaching Software Modeling in a Simulated
-  Project Environment},'' {\em Lecture Notes in Computer Science}, vol.~4364,
-  pp.~301--310, 2007.
+R.~Szmur{\l}o and M.~{\'S}mia{\l}ek, ``Teaching software modeling in a
+  simulated project environment,'' in {\em International Conference on Model
+  Driven Engineering Languages and Systems}, pp.~301--310, Springer, 2006.
 
 \bibitem{schmidt2014teaching}
 A.~Schmidt, D.~Kimmig, K.~Bittner, and M.~Dickerhof, ``Teaching model-driven
@@ -82,36 +78,40 @@ A.~Schmidt, D.~Kimmig, K.~Bittner, and M.~Dickerhof, ``Teaching model-driven
   Inc., 2014.
 
 \bibitem{Naps2005}
-T.~L. Naps, ``{Jhav{\'{e}}: Supporting algorithm visualization},'' {\em IEEE
+T.~L. Naps, ``Jhav{\'e}: Supporting algorithm visualization,'' {\em IEEE
   Computer Graphics and Applications}, vol.~25, no.~5, pp.~49--55, 2005.
 
 \bibitem{Deterding2013}
-S.~Deterding, S.~L. Bj{\"{o}}rk, L.~E. Nacke, D.~Dixon, and E.~Lawley,
-  ``{Designing Gamification: creating gameful and playful experiences},'' {\em
-  CHI '13 Extended Abstracts on Human Factors in Computing Systems on - CHI EA
-  '13}, p.~3263, 2013.
+S.~Deterding, S.~L. Bj{\"o}rk, L.~E. Nacke, D.~Dixon, and E.~Lawley,
+  ``Designing gamification: creating gameful and playful experiences,'' in {\em
+  CHI'13 Extended Abstracts on Human Factors in Computing Systems},
+  pp.~3263--3266, ACM, 2013.
 
 \bibitem{Pedreira2015}
-O.~Pedreira, F.~Garc{\'{i}}a, N.~Brisaboa, and M.~Piattini, ``{Gamification in
-  software engineering - A systematic mapping},'' in {\em Information and
-  Software Technology}, vol.~57, pp.~157--168, Elsevier, 2015.
-
-\bibitem{Groenewegen2010}
-J.~Groenewegen, S.~Hoppenbrouwers, and E.~Proper, ``{Playing ArchiMate
-  models},'' 2010.
-
-\bibitem{Stikkolorum2014}
-D.~R. Stikkolorum, M.~R.~V. Chaudron, and O.~de~Bruin, ``{The Art of Software
-  Design, a Video Game for Learning Software Design Principles},'' jan 2014.
+O.~Pedreira, F.~Garc{\'\i}a, N.~Brisaboa, and M.~Piattini, ``Gamification in
+  software engineering--a systematic mapping,'' {\em Information and Software
+  Technology}, vol.~57, pp.~157--168, 2015.
 
 \bibitem{Richardsen2014}
-O.~Richardsen, ``{Learning Modeling Languages Using Strategies from Gaming},''
+O.~Richardsen, ``Learning modeling languages using strategies from gaming,''
+  Master's thesis, Norwegian University of Science and Technology, Norway,
   2014.
 
+\bibitem{Stikkolorum2014}
+D.~R. Stikkolorum, M.~R. Chaudron, and O.~de~Bruin, ``The art of software
+  design, a video game for learning software design principles,'' {\em arXiv
+  preprint arXiv:1401.5111}, 2014.
+
+\bibitem{Groenewegen2010}
+J.~Groenewegen, S.~Hoppenbrouwers, and E.~Proper, ``Playing archimate models,''
+  in {\em Enterprise, Business-Process and Information Systems Modeling},
+  pp.~182--194, Springer, 2010.
+
 \bibitem{Ionita2015}
-D.~B. Ionita, R.~Wieringa, J.-w. Bullee, and A.~Vasenev, ``{Tangible Modelling
-  to Elicit Domain Knowledge: An Experiment and Focus Group},'' vol.~9381,
-  pp.~558--565, 2015.
+D.~Ionita, R.~Wieringa, J.-W. Bullee, and A.~Vasenev, ``Tangible modelling to
+  elicit domain knowledge: an experiment and focus group,'' in {\em
+  International Conference on Conceptual Modeling}, pp.~558--565, Springer,
+  2015.
 
 \bibitem{peffers2007design}
 K.~Peffers, T.~Tuunanen, M.~A. Rothenberger, and S.~Chatterjee, ``A design
@@ -128,5 +128,10 @@ D.~S. Kolovos, A.~Garc{\'\i}a-Dom{\'\i}nguez, L.~M. Rose, and R.~F. Paige,
   ``Eugenia: towards disciplined and automated development of gmf-based
   graphical model editors,'' {\em Software \& Systems Modeling}, pp.~1--27,
   2015.
+
+\bibitem{hair2016primer}
+J.~F. Hair~Jr, G.~T.~M. Hult, C.~Ringle, and M.~Sarstedt, {\em A primer on
+  partial least squares structural equation modeling (PLS-SEM)}.
+\newblock Sage Publications, 2016.
 
 \end{thebibliography}

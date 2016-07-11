@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.3.26)  10 JUL 2016 18:07
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.3.26)  11 JUL 2016 13:09
 entering extended mode
 **./GamifiedModelling.tex
 (GamifiedModelling.tex
@@ -339,68 +339,60 @@ Missing character: There is no ™ in font cmr10!
 
 
 {C:/Users/Ryan/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
-Overfull \hbox (7.37717pt too wide) in paragraph at lines 87--88
-\OT1/cmr/m/n/10 ca-tion de-sign frame-work that []can be used to []sys-tem-at-i
--cally and semi-automatically
- []
-
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no ™ in font cmr10!
-[2] [3] [4] [5] (GamifiedModelling.bbl [6] [7]) [8]
-<images/levels.png, id=35, 1028.34187pt x 578.16pt>
+ [2] [3] [4] [5]
+(GamifiedModelling.bbl [6]) [7]
+<images/levels.png, id=32, 1028.34187pt x 578.16pt>
 File: images/levels.png Graphic file (type png)
  <use images/levels.png>
-Package pdftex.def Info: images/levels.png used on input line 211.
+Package pdftex.def Info: images/levels.png used on input line 189.
 (pdftex.def)             Requested size: 177.1224pt x 99.58464pt.
 
-<images/positive.png, id=36, 277.78781pt x 184.43906pt>
+<images/positive.png, id=33, 277.78781pt x 184.43906pt>
 File: images/positive.png Graphic file (type png)
 
 <use images/positive.png>
-Package pdftex.def Info: images/positive.png used on input line 214.
+Package pdftex.def Info: images/positive.png used on input line 192.
 (pdftex.def)             Requested size: 149.9862pt x 99.58464pt.
 
-<images/game-annotated.png, id=37, 1028.34187pt x 578.16pt>
+<images/game-annotated.png, id=34, 1028.34187pt x 578.16pt>
 File: images/game-annotated.png Graphic file (type png)
 
 <use images/game-annotated.png>
-Package pdftex.def Info: images/game-annotated.png used on input line 220.
+Package pdftex.def Info: images/game-annotated.png used on input line 198.
 (pdftex.def)             Requested size: 347.12354pt x 195.16028pt.
 
-<images/editor.png, id=38, 658.71094pt x 456.95718pt>
+<images/editor.png, id=35, 658.71094pt x 456.95718pt>
 File: images/editor.png Graphic file (type png)
  <use images/editor.png>
-Package pdftex.def Info: images/editor.png used on input line 226.
+Package pdftex.def Info: images/editor.png used on input line 204.
 (pdftex.def)             Requested size: 347.12354pt x 240.80557pt.
 
-[9
+[8
 
-] [10 <./images/levels.png> <./images/positive.png> <./images/game-annotated.pn
-g>] [11 <./images/editor.png>] (GamifiedModelling.aux)
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
- ) 
+] [9 <./images/levels.png> <./images/positive.png> <./images/game-annotated.png
+>] [10 <./images/editor.png>] (GamifiedModelling.aux) ) 
 Here is how much of TeX's memory you used:
- 4069 strings out of 493634
- 58816 string characters out of 3143747
- 132420 words of memory out of 3000000
- 7398 multiletter control sequences out of 15000+200000
+ 4070 strings out of 493634
+ 58832 string characters out of 3143747
+ 131424 words of memory out of 3000000
+ 7399 multiletter control sequences out of 15000+200000
  11125 words of font info for 43 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
- 44i,10n,49p,1146b,367s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Pr
-ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Fi
-les/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx9.pfb><C:/Program Files/MiKTe
-X 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fon
-ts/type1/public/amsfonts/cm/cmr9.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/p
-ublic/amsfonts/cm/cmti10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/am
-sfonts/cm/cmti9.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm
-/cmtt9.pfb>
-Output written on GamifiedModelling.pdf (11 pages, 326340 bytes).
+ 44i,10n,49p,1208b,367s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files/MiKTeX
+ 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Program Files/MiKTeX 2.9/fon
+ts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1
+/public/amsfonts/cm/cmbx9.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/a
+msfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/c
+m/cmr9.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.p
+fb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti9.pfb><C:/Pr
+ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmtt9.pfb>
+Output written on GamifiedModelling.pdf (10 pages, 325832 bytes).
 PDF statistics:
- 74 PDF objects out of 1000 (max. 8388607)
+ 71 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  21 words of extra memory for PDF output out of 10000 (max. 10000000)
 
