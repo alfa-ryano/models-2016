@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.3.26)  11 JUL 2016 21:17
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.3.26)  12 JUL 2016 00:58
 entering extended mode
 **./GamifiedModelling.tex
 (GamifiedModelling.tex
@@ -351,44 +351,41 @@ Missing character: There is no ™ in font cmr10!
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no ™ in font cmr10!
- [2] [3] [4] [5]
-(GamifiedModelling.bbl [6]) [7]
-<images/game-annotated.png, id=32, 1028.34187pt x 578.16pt>
+ [2]
+<images/game-annotated.png, id=13, 1028.34187pt x 578.16pt>
 File: images/game-annotated.png Graphic file (type png)
 
 <use images/game-annotated.png>
-Package pdftex.def Info: images/game-annotated.png used on input line 149.
+Package pdftex.def Info: images/game-annotated.png used on input line 114.
 (pdftex.def)             Requested size: 327.20668pt x 183.96515pt.
-
-<images/editor.png, id=33, 658.71094pt x 456.95718pt>
+ [3] [4 <./images/game-annotated.png>]
+<images/editor.png, id=21, 639.13782pt x 355.3275pt>
 File: images/editor.png Graphic file (type png)
  <use images/editor.png>
-Package pdftex.def Info: images/editor.png used on input line 155.
-(pdftex.def)             Requested size: 327.20668pt x 226.99286pt.
+Package pdftex.def Info: images/editor.png used on input line 131.
+(pdftex.def)             Requested size: 327.20668pt x 181.90862pt.
 
-[8
-
- <./images/game-annotated.png> <./images/editor.png>] (GamifiedModelling.aux) )
- 
+[5 <./images/editor.png>] (GamifiedModelling.bbl [6]) [7]
+(GamifiedModelling.aux) ) 
 Here is how much of TeX's memory you used:
- 4100 strings out of 493634
- 59138 string characters out of 3143747
- 133737 words of memory out of 3000000
- 7427 multiletter control sequences out of 15000+200000
+ 4101 strings out of 493634
+ 59146 string characters out of 3143747
+ 133753 words of memory out of 3000000
+ 7428 multiletter control sequences out of 15000+200000
  11125 words of font info for 43 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
- 44i,9n,42p,1208b,349s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Prog
-ram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program File
-s/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx9.pfb><C:/Program Files/MiKTeX 
-2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts
-/type1/public/amsfonts/cm/cmr9.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/pub
-lic/amsfonts/cm/cmti10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsf
-onts/cm/cmti9.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/c
-mtt9.pfb>
-Output written on GamifiedModelling.pdf (8 pages, 285538 bytes).
+ 44i,9n,42p,1111b,349s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfon
+ts/cm/cmbx10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cm
+bx12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx9.pfb>
+<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Progr
+am Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Program Files/M
+iKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Program Files/MiKTeX 2.
+9/fonts/type1/public/amsfonts/cm/cmti9.pfb><C:/Program Files/MiKTeX 2.9/fonts/t
+ype1/public/amsfonts/cm/cmtt9.pfb>
+Output written on GamifiedModelling.pdf (7 pages, 268802 bytes).
 PDF statistics:
- 63 PDF objects out of 1000 (max. 8388607)
+ 60 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  11 words of extra memory for PDF output out of 10000 (max. 10000000)
 
